@@ -1,0 +1,7 @@
+[package]
+name = "code-gen-prag"
+version = "0.1.0"
+authors = ["Marc Harter <wavded@gmail.com>"]
+
+[dependencies]
+failure = "0.1"
